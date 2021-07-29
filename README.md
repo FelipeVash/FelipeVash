@@ -1,3 +1,6 @@
+  <div>
+    <img src="https://image.flaticon.com/icons/png/512/197/197386.png" />
+  </div>
   Com experiência em TI desde muito jovem, ganhador de bolsa de estudos integral, estudei WebDevelopment, Design Gráfico e Arquitetura de Rede ao longo dos anos e cresci   em ambiente full tech, sempre pesquisando em todas as mídias.
   Nasci na época do crescimento da internet e cresci na época da grande transição.
   Tenho total experiência em todas as plataformas Windows, MacOS e Linux Ubuntu.
